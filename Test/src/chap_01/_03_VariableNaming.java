@@ -17,5 +17,6 @@ public class _03_VariableNaming {
         String residentialAddress = "무슨 호텔";
         String purposeOfVisit = "관광";
         String fightNumber = "KE536";
+        
     }
 }
