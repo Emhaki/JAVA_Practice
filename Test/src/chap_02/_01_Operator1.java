@@ -1,7 +1,5 @@
 package chap_02;
 
-import javax.xml.transform.Source;
-
 public class _01_Operator1 {
     public static void main(String[] args) {
         // 산술 연산자
