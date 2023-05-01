@@ -17,6 +17,14 @@ public class _03_VariableNaming {
         String residentialAddress = "무슨 호텔";
         String purposeOfVisit = "관광";
         String fightNumber = "KE536";
-        
+
+        System.out.println(nationality);
+        System.out.println(firstName);
+        System.out.println(lastName);
+        System.out.println(dateOfBirth);
+        System.out.println(residentialAddress);
+        System.out.println(purposeOfVisit);
+        System.out.println(fightNumber);
+
     }
 }
