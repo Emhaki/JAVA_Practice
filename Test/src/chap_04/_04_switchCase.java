@@ -8,7 +8,8 @@ public class _04_switchCase {
         // 2등 : 반액 장학금
         // 3등 : 반액 장학금
         // 그 외 : 장학금 대상 아님
-
+        
+        // 범위
         int ranking = 1; 
         if (ranking == 1) {
             System.out.println("전액 장학금");
@@ -21,7 +22,7 @@ public class _04_switchCase {
         }
         System.out.println("조회 완료");
         
-        // switch-case
+        // switch-case 명확한 케이스가 있는 경우
         switch (ranking) {
             case 1:
                 System.out.println("전액 장학금");
