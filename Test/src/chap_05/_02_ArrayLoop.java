@@ -9,5 +9,8 @@ public class _02_ArrayLoop {
             System.out.println(coffees[i]);
         }
 
+        for (String coffee : coffees) {
+            System.out.println(coffee);
+        }
     }
 }
