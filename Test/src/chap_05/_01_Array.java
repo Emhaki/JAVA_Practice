@@ -3,10 +3,10 @@ package chap_05;
 public class _01_Array {
     public static void main(String[] args) {
         // 배열: 여러 개를 저장하는 공간
-        String coffeeRoss = "아메리카노";
-        String coffeeRachel = "카페모카";
-        String coffeeChandler = "라떼";
-        String coffeeMonica = "카푸치노";
+        // String coffeeRoss = "아메리카노";
+        // String coffeeRachel = "카페모카";
+        // String coffeeChandler = "라떼";
+        // String coffeeMonica = "카푸치노";
 
         System.out.println();
 

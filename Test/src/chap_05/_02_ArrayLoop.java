@@ -8,7 +8,9 @@ public class _02_ArrayLoop {
         for (int i = 0; i < coffees.length; i++) {
             System.out.println(coffees[i]);
         }
+        
 
+        // for each 반복문
         for (String coffee : coffees) {
             System.out.println(coffee);
         }
