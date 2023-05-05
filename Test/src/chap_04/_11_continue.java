@@ -10,7 +10,7 @@ public class _11_continue {
         for (int i = 1; i <= 50; i++) {
             System.out.println(i + "번 손님, 치킨 나왔습니다.");
             
-            if (i == noShow) {
+            if (sold == noShow) {
                 continue;
             }
 
