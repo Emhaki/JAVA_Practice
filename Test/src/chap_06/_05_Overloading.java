@@ -1,6 +1,9 @@
 package chap_06;
 
 public class _05_Overloading {
+    // 똑같은 함수를 여러번 사용
+    // 1. 전달값의 타입이 다르거나
+    // 2. 전달값의 갯수가 다르거나
     public static int getPower(int number) {
         int result = number * number;
         return result;
