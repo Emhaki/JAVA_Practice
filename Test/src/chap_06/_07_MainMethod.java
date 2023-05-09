@@ -26,8 +26,10 @@ public class _07_MainMethod {
                     System.out.println("4");
                     break;
             }
-        } else {
+        } else if {
             System.out.println("5");
+        } else {
+            System.out.println("6");
         }
     }
 }
